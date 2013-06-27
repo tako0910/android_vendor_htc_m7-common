@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/bin/awb_camera:system/bin/awb_camera \
     $(LOCAL_PATH)/proprietary/system/bin/bma150_usr:system/bin/bma150_usr \
     $(LOCAL_PATH)/proprietary/system/bin/charging:system/bin/charging \
-    $(LOCAL_PATH)/proprietary/system/bin/efsks:system/bin/efsks \
     $(LOCAL_PATH)/proprietary/system/bin/flash_camera:system/bin/flash_camera \
     $(LOCAL_PATH)/proprietary/system/bin/ks:system/bin/ks \
     $(LOCAL_PATH)/proprietary/system/bin/lsc_camera:system/bin/lsc_camera \
@@ -41,7 +40,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/bin/netmgrd:system/bin/netmgrd \
     $(LOCAL_PATH)/proprietary/system/bin/netsharing:system/bin/netsharing \
     $(LOCAL_PATH)/proprietary/system/bin/ois_camera:system/bin/ois_camera \
-    $(LOCAL_PATH)/proprietary/system/bin/qcks:system/bin/qcks \
     $(LOCAL_PATH)/proprietary/system/bin/qmuxd:system/bin/qmuxd \
     $(LOCAL_PATH)/proprietary/system/bin/test_gemini:system/bin/test_gemini \
     $(LOCAL_PATH)/proprietary/system/bin/thermald:system/bin/thermald \
