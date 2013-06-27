@@ -74,7 +74,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libchromatix_vd6869_zoe.so:system/lib/libchromatix_vd6869_zoe.so \
     $(LOCAL_PATH)/proprietary/system/lib/libchromatix_vd6869_zsl.so:system/lib/libchromatix_vd6869_zsl.so \
     $(LOCAL_PATH)/proprietary/system/lib/libgemini.so:system/lib/libgemini.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libhtccamera.so:system/lib/libhtccamera.so \
     $(LOCAL_PATH)/proprietary/system/lib/libhtccamera_yushaniiproc.so:system/lib/libhtccamera_yushaniiproc.so \
     $(LOCAL_PATH)/proprietary/system/lib/libHTC_DIS.so:system/lib/libHTC_DIS.so \
     $(LOCAL_PATH)/proprietary/system/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
@@ -95,13 +94,9 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     $(LOCAL_PATH)/proprietary/system/lib/libmmipl.so:system/lib/libmmipl.so \
     $(LOCAL_PATH)/proprietary/system/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libmmosal.so:system/lib/libmmosal.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libmmparser.so:system/lib/libmmparser.so \
     $(LOCAL_PATH)/proprietary/system/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
     $(LOCAL_PATH)/proprietary/system/lib/liboemcamera.so:system/lib/liboemcamera.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libOlaEngineNew.so:system/lib/libOlaEngineNew.so \
     $(LOCAL_PATH)/proprietary/system/lib/libposteffect.so:system/lib/libposteffect.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libyuvimage.so:system/lib/libyuvimage.so \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/ILP0100_IPM_Code_out.bin:system/etc/firmware/ILP0100_IPM_Code_out.bin \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/ILP0100_IPM_Data_out.bin:system/etc/firmware/ILP0100_IPM_Data_out.bin \
     $(LOCAL_PATH)/proprietary/system/lib/libgeofence.so:system/lib/libgeofence.so \
