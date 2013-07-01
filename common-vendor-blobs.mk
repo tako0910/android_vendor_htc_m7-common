@@ -117,7 +117,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libC2D2.so:system/lib/libC2D2.so \
     $(LOCAL_PATH)/proprietary/system/lib/libgsl.so:system/lib/libgsl.so \
     $(LOCAL_PATH)/proprietary/system/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
     $(LOCAL_PATH)/proprietary/system/lib/libOpenCL.so:system/lib/libOpenCL.so \
     $(LOCAL_PATH)/proprietary/system/lib/libOpenVG.so:system/lib/libOpenVG.so \
     $(LOCAL_PATH)/proprietary/system/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
