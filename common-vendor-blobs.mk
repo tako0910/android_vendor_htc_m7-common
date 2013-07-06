@@ -26,6 +26,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/bin/akmd:system/bin/akmd \
     $(LOCAL_PATH)/proprietary/system/bin/charging:system/bin/charging \
     $(LOCAL_PATH)/proprietary/system/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
+    $(LOCAL_PATH)/proprietary/system/bin/ks:system/bin/ks \
     $(LOCAL_PATH)/proprietary/system/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     $(LOCAL_PATH)/proprietary/system/bin/mpdecision:system/bin/mpdecision \
     $(LOCAL_PATH)/proprietary/system/bin/netmgrd:system/bin/netmgrd \
