@@ -164,6 +164,9 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libmlplatform.so:system/lib/libmlplatform.so \
     $(LOCAL_PATH)/proprietary/system/lib/libmpl.so:system/lib/libmpl.so \
     $(LOCAL_PATH)/proprietary/system/lib/libmpl_jni.so:system/lib/libmpl_jni.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libQSEEComAPI.so:/system/lib/libQSEEComAPI.so \
+    $(LOCAL_PATH)/proprietary/system/vendor/lib/libwvm.so:/system/vendor/lib/libwvm.so \
+    $(LOCAL_PATH)/proprietary/system/vendor/lib/libWVStreamControlAPI_L1.so:/system/vendor/lib/libWVStreamControlAPI_L1.so \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/BCM4335B0_002.001.006.0042.0044.hcd:system/etc/firmware/BCM4335B0_002.001.006.0042.0044.hcd \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/fw_bcm4335_apsta_b0.bin:system/etc/firmware/fw_bcm4335_apsta_b0.bin \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/fw_bcm4335_b0.bin:system/etc/firmware/fw_bcm4335_b0.bin \
