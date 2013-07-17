@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/bin/thermald:system/bin/thermald \
     $(LOCAL_PATH)/proprietary/system/bin/zchgd:system/bin/zchgd \
     $(LOCAL_PATH)/proprietary/system/etc/agps_rm:system/etc/agps_rm \
-    $(LOCAL_PATH)/proprietary/system/etc/cir.img:system/etc/cir.img \
     $(LOCAL_PATH)/proprietary/system/etc/hldm.bin:system/etc/hldm.bin \
     $(LOCAL_PATH)/proprietary/system/etc/hltof.bin:system/etc/hltof.bin \
     $(LOCAL_PATH)/proprietary/system/etc/hltrd.bin:system/etc/hltrd.bin \
@@ -131,6 +130,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/vidc.mdt:system/etc/firmware/vidc.mdt \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
+    $(LOCAL_PATH)/proprietary/system/bin/cir_fw_update:/system/bin/cir_fw_update \
+    $(LOCAL_PATH)/proprietary/system/etc/cir.img:/system/etc/cir.img \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/hcheck.b00:system/etc/firmware/hcheck.b00 \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/hcheck.b01:system/etc/firmware/hcheck.b01 \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/hcheck.b02:system/etc/firmware/hcheck.b02 \
