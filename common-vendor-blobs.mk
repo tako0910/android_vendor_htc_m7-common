@@ -109,17 +109,12 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     $(LOCAL_PATH)/proprietary/system/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
     $(LOCAL_PATH)/proprietary/system/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
-    $(LOCAL_PATH)/proprietary/system/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
-    $(LOCAL_PATH)/proprietary/system/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
     $(LOCAL_PATH)/proprietary/system/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     $(LOCAL_PATH)/proprietary/system/lib/libc2d2_a3xx.so:system/lib/libc2d2_a3xx.so \
     $(LOCAL_PATH)/proprietary/system/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
     $(LOCAL_PATH)/proprietary/system/lib/libC2D2.so:system/lib/libC2D2.so \
     $(LOCAL_PATH)/proprietary/system/lib/libgsl.so:system/lib/libgsl.so \
     $(LOCAL_PATH)/proprietary/system/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libOpenCL.so:system/lib/libOpenCL.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libOpenVG.so:system/lib/libOpenVG.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     $(LOCAL_PATH)/proprietary/system/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
@@ -129,7 +124,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/vidc.b03:system/etc/firmware/vidc.b03 \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/vidc.mdt:system/etc/firmware/vidc.mdt \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
-    $(LOCAL_PATH)/proprietary/system/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
     $(LOCAL_PATH)/proprietary/system/bin/cir_fw_update:/system/bin/cir_fw_update \
     $(LOCAL_PATH)/proprietary/system/etc/cir.img:/system/etc/cir.img \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/hcheck.b00:system/etc/firmware/hcheck.b00 \
