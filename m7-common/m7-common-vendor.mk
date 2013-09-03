@@ -15,4 +15,4 @@
 # Pick up overlay for features that depend on non-open-source files
 DEVICE_PACKAGE_OVERLAYS += vendor/htc/m7-common/overlay
 
-$(call inherit-product, vendor/htc/m7-common/common-vendor-blobs.mk)
+$(call inherit-product, vendor/htc/m7-common/m7-common-vendor-blobs.mk)
