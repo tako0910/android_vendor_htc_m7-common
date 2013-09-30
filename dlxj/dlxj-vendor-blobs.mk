@@ -171,5 +171,25 @@ PRODUCT_COPY_FILES += \
   vendor/htc/dlxj/proprietary/vendor/lib/libwvdrm_L1.so:/system/vendor/lib/libwvdrm_L1.so \
   vendor/htc/dlxj/proprietary/vendor/lib/libdrmtime.so:/system/vendor/lib/libdrmtime.so \
   vendor/htc/dlxj/proprietary/vendor/lib/libdrmfs.so:/system/vendor/lib/libdrmfs.so \
-  vendor/htc/dlxj/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:/system/vendor/lib/libWVStreamControlAPI_L1.so
-
+  vendor/htc/dlxj/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:/system/vendor/lib/libWVStreamControlAPI_L1.so \
+  vendor/htc/dlxj/proprietary/bin/felica_agent:/system/bin/felica_agent \
+  vendor/htc/dlxj/proprietary/bin/felica_daemon:/system/bin/felica_daemon \
+  vendor/htc/dlxj/proprietary/bin/felica_startup:/system/bin/felica_startup \
+  vendor/htc/dlxj/proprietary/etc/felica/ana.png:/system/etc/felica/ana.png \
+  vendor/htc/dlxj/proprietary/etc/felica/biccameralogo.png:/system/etc/felica/biccameralogo.png \
+  vendor/htc/dlxj/proprietary/etc/felica/bookmark.cfg:/system/etc/felica/bookmark.cfg \
+  vendor/htc/dlxj/proprietary/etc/felica/common.cfg:/system/etc/felica/common.cfg \
+  vendor/htc/dlxj/proprietary/etc/felica/edy.png:/system/etc/felica/edy.png \
+  vendor/htc/dlxj/proprietary/etc/felica/jre.PNG:/system/etc/felica/jre.PNG \
+  vendor/htc/dlxj/proprietary/etc/felica/Mcd_icon_72_ili.png:/system/etc/felica/Mcd_icon_72_ili.png \
+  vendor/htc/dlxj/proprietary/etc/felica/portal_icon.png:/system/etc/felica/portal_icon.png \
+  vendor/htc/dlxj/proprietary/etc/felica/QP_logo.PNG:/system/etc/felica/QP_logo.PNG \
+  vendor/htc/dlxj/proprietary/etc/felica/toku.png:/system/etc/felica/toku.png \
+  vendor/htc/dlxj/proprietary/etc/felica/waonicon.png:/system/etc/felica/waonicon.png \
+  vendor/htc/dlxj/proprietary/etc/felica/yodo_android_72x72.png:/system/etc/felica/yodo_android_72x72.png \
+  vendor/htc/dlxj/proprietary/etc/felica/mfs.cfg:/system/etc/felica/mfs.cfg \
+  vendor/htc/dlxj/proprietary/app/KDDI_Felicalock.apk:/system/app/KDDI_Felicalock.apk \
+  vendor/htc/dlxj/proprietary/app/MobileFeliCaClient.apk:/system/app/MobileFeliCaClient.apk \
+  vendor/htc/dlxj/proprietary/app/MobileFeliCaMenuApp.apk:/system/app/MobileFeliCaMenuApp.apk \
+  vendor/htc/dlxj/proprietary/app/MobileFeliCaSettingApp.apk:/system/app/MobileFeliCaSettingApp.apk \
+  vendor/htc/dlxj/proprietary/app/MobileFeliCaWebPluginBoot.apk:/system/app/MobileFeliCaWebPluginBoot.apk
