@@ -187,6 +187,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/dlxj/proprietary/etc/felica/toku.png:/system/etc/felica/toku.png \
   vendor/htc/dlxj/proprietary/etc/felica/waonicon.png:/system/etc/felica/waonicon.png \
   vendor/htc/dlxj/proprietary/etc/felica/yodo_android_72x72.png:/system/etc/felica/yodo_android_72x72.png \
+  vendor/htc/dlxj/proprietary/etc/felica/mfm.cfg:/system/etc/felica/mfm.cfg \
   vendor/htc/dlxj/proprietary/etc/felica/mfs.cfg:/system/etc/felica/mfs.cfg \
   vendor/htc/dlxj/proprietary/app/KDDI_Felicalock.apk:/system/app/KDDI_Felicalock.apk \
   vendor/htc/dlxj/proprietary/app/MobileFeliCaClient.apk:/system/app/MobileFeliCaClient.apk \
