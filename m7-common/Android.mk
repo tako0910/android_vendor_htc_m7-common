@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter m7att m7spr m7tmo m7ul m7vzw,$(TARGET_DEVICE)),)
+ifneq ($(filter m7att m7spr m7tmo m7ul m7vzw m7wlj,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := CIRModule
